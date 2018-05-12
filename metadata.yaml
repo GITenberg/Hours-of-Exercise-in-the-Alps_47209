@@ -1,4 +1,8 @@
 _repo: Hours-of-Exercise-in-the-Alps_47209
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47209-h/images/cover.jpg
 creator:
   author:
     agent_name: Tyndall, John
@@ -18,6 +22,8 @@ description: 'The Shelf2Life Mountaineering Collection provides a unique glimpse
   of interest in mountaineering, these books are an excellent opportunity to revisit
   the roots and origins of the sport: they offer a valuable historical perspective
   as well as important information about the landscape and geography of the past.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47209#Hours-of-Exercise-in-the-Alps
 gutenberg_issued: '2014-10-27'
 gutenberg_type: Text
 identifiers:
